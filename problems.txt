@@ -1,0 +1,11 @@
+[일차방정식의풀이:유형1,2,3:등식][]Find out the answer. |  878-0.jpg       |     https://blog.naver.com/     |   $$3x+5=7(x-2)$$   | $$3x+5=7-2x$$   | $$3x+5=2(7-x)$$  |  $$3(x+5)=2-7x$$  | $$3(x+5)=7-2x$$  | 3  |  878.mp3 |   "$$ \blacktriangleright $$" |  878-a.jpg
+[일차방정식의풀이:유형1,2,3:등식][]Find out the answer. |  881-0.jpg       |     https://blog.naver.com/     |  $$10$$   | $$11$$   | $$12$$  |  $$13$$  | $$14$$  |  3  |  881.mp3 |   "$$ \blacktriangleright $$" |  881-a.jpg
+[일차방정식의풀이:유형1,2,3:등식][]Find out the answer. |  882-0.jpg       |     https://blog.naver.com/   |  $$-2x+12=0 \qquad [-6]$$   | $$x-4=4-x  \qquad [0]$$   | $$\frac {x-1}{2}=\frac{x}{5}+1 \qquad [5]$$  |  $$2-3x=5 \qquad  [1]$$  | $$2(x+1)=x+5 \qquad [-3]$$  | 3  |  882.mp3 |   "$$ \blacktriangleright $$" |  882-a.jpg
+[일차방정식의풀이:유형1,2,3:등식][]Find out the answer. |  886-0.jpg       |     https://blog.naver.com/    |  $$0$$   | $$1$$   | $$2$$  |  $$3$$  | $$6$$  |  3  |  886.mp3 |   "$$ \blacktriangleright $$" |  886-a.jpg   
+
+
+
+
+
+
+
